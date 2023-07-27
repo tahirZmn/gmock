@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\t.zaman\Desktop\workspace\gmock\gmock01\build\CMakeFiles\54144f2fd8c756009727952871cf9ccc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F1E2ADFF-6E0B-3392-9F5E-B61961F649FC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/CMakeFiles/gmock_tests.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/CMakeFiles/ALL_BUILD.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googlemock/CMakeFiles/gmock.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googlemock/CMakeFiles/gmock_main.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googlemock/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googletest/CMakeFiles/gtest.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googletest/CMakeFiles/gtest_main.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googletest/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gmock/gmock01/build/googletest/googletest/CMakeFiles/ALL_BUILD.dir

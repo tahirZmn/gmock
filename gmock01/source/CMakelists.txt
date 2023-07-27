@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.5)
+cmake_policy(SET CMP0091 NEW)
+
+set(CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_STANDARD 11)
+
+project(GmockApp
+        DESCRIPTION "Gmock series"
+        VERSION 0.0.1
+        LANGUAGES CXX)
+
+add_subdirectory(GoogleTest)
+include_directories(${gtest_SOURCE_DIR}/include
+                    ${gmock_SOURCE_DIR}/include)
+
+add_executable(gmock_tests tests/unitTests.cpp src/math.cpp src/mockClass.cpp) 
+target_link_libraries(gmock_tests PRIVATE gmock_main gtest_main )
+target_include_directories(gmock_tests PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
